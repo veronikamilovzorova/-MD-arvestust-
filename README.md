@@ -20,4 +20,6 @@ git commit
 ```
 minu projekti värv on '#97ac9f'
 minu tööd võib leida minu saidil [Luca veebirakendused] (https://lucagluhhov22.thkit.ee/)
+´´´
+´´´
 ![ilus Tool minu projektist](https://media2.kodukaubamaja.ee/983662-tm_large_default/toolid-2tk-naomi-61x605xh4784cm-tumehall.jpg)
