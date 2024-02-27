@@ -10,5 +10,5 @@
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
 >Valminud kogust saab suurendada vaid tellimustel,
 kus kogus pole veel täis.
-Eraldi lehel näita valminud tellimusi.
+Eraldi lehel näita valminud tellimusi.>
 `git status`
