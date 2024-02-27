@@ -8,3 +8,6 @@
 ***Koostasin veebilehe tellimuse sisestamiseks.***
 <sub>Näitasin</sub> veebilehel toolide tabeli seisu.
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
+>Valminud kogust saab suurendada vaid tellimustel,
+kus kogus pole veel täis.
+Eraldi lehel näita valminud tellimusi.
