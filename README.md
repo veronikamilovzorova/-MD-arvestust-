@@ -12,3 +12,11 @@
 kus kogus pole veel täis.
 Eraldi lehel näita valminud tellimusi.>
 `git status`
+mingi Git commands on:
+```
+git status
+git add
+git commit
+```
+minu projekti värv on '#97ac9f'
+minu tööd võib leida minu saidil [Luca veebirakendused] (https://lucagluhhov22.thkit.ee/)
