@@ -11,7 +11,13 @@
 
 
 ![suurendamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot222.png)
+
+
 <sub>Näitasin</sub> veebilehel toolide tabeli seisu.
+
+![ilus tool](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png)Märge
+
+
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
 >Valminud kogust saab suurendada vaid tellimustel,
 kus kogus pole veel täis.
@@ -20,7 +26,7 @@ Eraldi lehel näita valminud tellimusi.
 minu projekti värv on '#97ac9f'.
 minu tööd võib leida minu saidil [Luca veebirakendused](https://lucagluhhov22.thkit.ee/).
 
-![ilus tool](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png)Märge
+
 Et teha sait/veebileht loetavaks oli vaja teha:
 + lisada ühine teemakohane kujundus kõikidele lehtede eraldi css failiga.
 ```
