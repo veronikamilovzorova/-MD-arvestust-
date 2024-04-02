@@ -1,4 +1,4 @@
-# Toolivahendus
+# Toolivalmistamine
 ## Selles projektis:
 ### Andmetabel toolid
 **Loonud SQL-lause tellimuse sisestamiseks**
