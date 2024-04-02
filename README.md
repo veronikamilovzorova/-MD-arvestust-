@@ -15,7 +15,7 @@ Eraldi lehel näita valminud tellimusi.
 minu projekti värv on '#97ac9f'.
 minu tööd võib leida minu saidil [Luca veebirakendused](https://lucagluhhov22.thkit.ee/).
 
-![ilus Tool minu projektist]([https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png])
+![ilus Tool minu projektist](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png)
 Märge
 Et teha sait/veebileht loetavaks oli vaja teha:
 + lisada ühine teemakohane kujundus kõikidele lehtede eraldi css failiga.
