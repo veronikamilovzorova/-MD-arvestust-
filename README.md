@@ -4,8 +4,12 @@
 **Loonud SQL-lause tellimuse sisestamiseks**
 *(värv/toon tekstina, ja tellimiskogus).*
 ![lisamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot111.png)
+
+
 ~~Valminuid algul 0.~~
 **Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra**
+
+
 ![suurendamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png)
 <sub>Näitasin</sub> veebilehel toolide tabeli seisu.
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
