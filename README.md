@@ -8,7 +8,9 @@
 
 ~~Valminuid algul 0.~~
 **Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra**
-
+<sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
+>Valminud kogust saab suurendada vaid tellimustel,
+kus kogus pole veel täis.
 
 ![suurendamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot222.png)
 
@@ -18,9 +20,7 @@
 ![ilus tool](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png)Märge
 
 
-<sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
->Valminud kogust saab suurendada vaid tellimustel,
-kus kogus pole veel täis.
+
 Eraldi lehel näita valminud tellimusi.
 `git status`
 minu projekti värv on '#97ac9f'.
