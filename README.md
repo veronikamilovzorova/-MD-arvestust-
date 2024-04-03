@@ -25,7 +25,7 @@ kus kogus pole veel täis.
 
 
 Eraldi lehel näita valminud tellimusi.
-`git status`
+
 minu projekti värv on '#97ac9f'.
 minu tööd võib leida minu saidil [Luca veebirakendused](https://lucagluhhov22.thkit.ee/).
 
