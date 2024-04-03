@@ -5,11 +5,14 @@
 
 - [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonudkäsklusemisvalmistabkogusesuurendamiseksühevõrra)
 
-- [Текст ссылки](#твоё_название)
 
-<a href="#name2">teemakohane kujundus</a> 
+-[loonud sql lause sissestamiseks](#твоё_название1)
 
-<a href="#name3">ühine navigeerimine</a> 
+
+-[teemakohane kujundus](#твоё_название3)
+
+
+-[ühine navigeerimine ](#твоё_название2)
 
 ### Andmetabel toolid
 
@@ -17,12 +20,14 @@
 
 
 **Loonud SQL-lause tellimuse sisestamiseks**
+<a name="твоё_название1"></a>
 *(värv/toon tekstina, ja tellimiskogus).*
 ![lisamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot111.png)
 
-<a name="твоё_название"></a>
+
 ~~Valminuid algul 0.~~
 ## Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra
+<a name="твоё_название"></a>
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
 >Valminud kogust saab suurendada vaid tellimustel,
 kus kogus pole veel täis.
@@ -43,7 +48,8 @@ minu tööd võib leida minu saidil [Luca veebirakendused](https://lucagluhhov22
 
 
 Et teha sait/veebileht loetavaks oli vaja teha:
-+ lisada ühine teemakohane kujundus kõikidele lehtede eraldi css failiga.(#name2)
+<a name="твоё_название3"></a>
++ **lisada ühine teemakohane kujundus kõikidele lehtede eraldi css failiga.**
 ```
 body {
     //background-image: url('office-chair-spin.gif');
@@ -236,7 +242,8 @@ table{
 }
 
 ```
-+ [teha ühine navigeerimismenüü](#name3)
+<a name="твоё_название2"></a>
++ **teha ühine navigeerimismenüü**
 
 
 ![navigeerimismenuu](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot%202024-04-03%20000147.png))
