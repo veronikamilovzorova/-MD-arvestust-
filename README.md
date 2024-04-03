@@ -6,9 +6,9 @@
 
 <a href="#name1">Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra</a> 
 
-### teemakohane kujundus
+<a href="#name2">teemakohane kujundus</a> 
 
-### ühine navigeerimine
+<a href="#name3">ühine navigeerimine</a> 
 
 ### Andmetabel toolid
 
@@ -235,7 +235,7 @@ table{
 }
 
 ```
-+ teha ühine navigeerimismenüü
++ [teha ühine navigeerimismenüü](#name3)
 
 
 ![navigeerimismenuu](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot%202024-04-03%20000147.png))
