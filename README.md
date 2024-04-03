@@ -13,9 +13,9 @@
 
 
 - [ühine navigeerimine ](#твоё_название2)
-
+<a name="твоё_название"></a>
 ### Andmetabel toolid
-<a name="твоё_название1"></a>
+
 **Vaata minu saidi selles lingis:[toolide valmistamine](https://lucagluhhov22.thkit.ee/Content/toolivara/table3.php).**
 
 
@@ -26,7 +26,7 @@
 
 
 ~~Valminuid algul 0.~~
-<a name="твоё_название"></a>
+<a name="твоё_название1"></a>
 ## Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra
 
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
