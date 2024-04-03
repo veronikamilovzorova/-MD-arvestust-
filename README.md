@@ -3,7 +3,7 @@
 ## Sisukord:
 ### tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-### tabeli seisu <a name="name1"></a> 
+<a name="name1"></a> 
 
 ### teemakohane kujundus
 
