@@ -3,7 +3,9 @@
 ## Sisukord
 ##  tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-- [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonudkäsklusemisvalmistabkogusesuurendamiseksühevõrra) 
+- [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonudkäsklusemisvalmistabkogusesuurendamiseksühevõrra)
+
+- [Текст ссылки](#твоё_название)
 
 <a href="#name2">teemakohane kujundus</a> 
 
@@ -18,7 +20,7 @@
 *(värv/toon tekstina, ja tellimiskogus).*
 ![lisamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot111.png)
 
-
+<a name="твоё_название"></a>
 ~~Valminuid algul 0.~~
 ## Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
