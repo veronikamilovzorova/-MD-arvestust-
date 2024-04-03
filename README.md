@@ -15,12 +15,12 @@
 - [ühine navigeerimine ](#твоё_название2)
 
 ### Andmetabel toolid
-
+<a name="твоё_название1"></a>
 **Vaata minu saidi selles lingis:[toolide valmistamine](https://lucagluhhov22.thkit.ee/Content/toolivara/table3.php).**
 
 
 **Loonud SQL-lause tellimuse sisestamiseks**
-<a name="твоё_название1"></a>
+
 *(värv/toon tekstina, ja tellimiskogus).*
 ![lisamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot111.png)
 
