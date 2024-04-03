@@ -4,7 +4,7 @@
 ### tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
 
-<a name="#name1">Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra</a> 
+<a href="#name1">Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra</a> 
 
 ### teemakohane kujundus
 
