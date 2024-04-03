@@ -42,7 +42,7 @@ minu tööd võib leida minu saidil [Luca veebirakendused](https://lucagluhhov22
 
 
 Et teha sait/veebileht loetavaks oli vaja teha:
-+ [lisada ühine teemakohane kujundus kõikidele lehtede eraldi css failiga.](#name2)
++ lisada ühine teemakohane kujundus kõikidele lehtede eraldi css failiga.(#name2)
 ```
 body {
     //background-image: url('office-chair-spin.gif');
