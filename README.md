@@ -1,7 +1,7 @@
 # Toolivalmistamine
 ## Selles projektis:
-## Sisukord
-##  tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
+## Sisukord:
+
 
 - [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#твоё_название)
 
