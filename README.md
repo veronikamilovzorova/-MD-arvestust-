@@ -6,13 +6,13 @@
 - [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonudkäsklusemisvalmistabkogusesuurendamiseksühevõrra)
 
 
--[loonud sql lause sissestamiseks](#твоё_название1)
+- [loonud sql lause sissestamiseks](#твоё_название1)
 
 
--[teemakohane kujundus](#твоё_название3)
+- [teemakohane kujundus](#твоё_название3)
 
 
--[ühine navigeerimine ](#твоё_название2)
+- [ühine navigeerimine ](#твоё_название2)
 
 ### Andmetabel toolid
 
