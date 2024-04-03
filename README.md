@@ -8,6 +8,8 @@
 
 - [loonud sql lause sissestamiseks](#твоё_название1)
 
+- [toolide seis](#твоё_название4)
+
 
 - [teemakohane kujundus](#твоё_название3)
 
@@ -35,8 +37,8 @@ kus kogus pole veel täis.
 
 ![suurendamine](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot222.png)
 
-
-<sub>Näitasin</sub> veebilehel toolide tabeli seisu.
+<a name="твоё_название4"></a>
+<sub>**Näitasin**</sub> veebilehel toolide tabeli seisu.
 
 ![ilus tool](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot.png)Märge
 
