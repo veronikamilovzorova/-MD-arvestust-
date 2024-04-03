@@ -3,8 +3,11 @@
 ## Sisukord:
 tellimuse sissestamine
 loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
+
 tabeli seisu
+
 teemakohane kujundus
+
 ühine navigeerimine
 
 ### Andmetabel toolid
