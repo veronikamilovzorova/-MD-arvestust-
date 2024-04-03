@@ -3,7 +3,7 @@
 ## Sisukord
 ##  tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-- [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonudkäsklusemisvalmistabkogusesuurendamiseksühevõrra)
+- [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#твоё_название)
 
 
 - [loonud sql lause sissestamiseks](#твоё_название1)
@@ -26,8 +26,9 @@
 
 
 ~~Valminuid algul 0.~~
-## Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra
 <a name="твоё_название"></a>
+## Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra
+
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
 >Valminud kogust saab suurendada vaid tellimustel,
 kus kogus pole veel täis.
