@@ -3,7 +3,7 @@
 ## Sisukord:
 ### tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-### tabeli seisu
+### tabeli seisu <a name="name1"></a> 
 
 ### teemakohane kujundus
 
@@ -20,7 +20,7 @@
 
 
 ~~Valminuid algul 0.~~
-**Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra**
+**[Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#name1)**
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
 >Valminud kogust saab suurendada vaid tellimustel,
 kus kogus pole veel täis.
