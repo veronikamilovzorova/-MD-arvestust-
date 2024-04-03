@@ -3,7 +3,7 @@
 ## Sisukord:
 ### tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-- [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra) 
+- [Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra](#Loonudkäsklusemis_valmistab_kogusesuurendamiseksühevõrra) 
 
 <a href="#name2">teemakohane kujundus</a> 
 
