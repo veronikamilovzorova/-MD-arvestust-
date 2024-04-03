@@ -21,7 +21,7 @@
 
 
 ~~Valminuid algul 0.~~
-**Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra**
+## Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra
 <sup>Loonud</sup> leht tellimusele vastava valminud koguse suurendamiseks ühe võrra.
 >Valminud kogust saab suurendada vaid tellimustel,
 kus kogus pole veel täis.
