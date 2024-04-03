@@ -1,14 +1,13 @@
 # Toolivalmistamine
 ## Selles projektis:
 ## Sisukord:
-tellimuse sissestamine
-loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
+# tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-tabeli seisu
+# tabeli seisu
 
-teemakohane kujundus
+# teemakohane kujundus
 
-ühine navigeerimine
+# ühine navigeerimine
 
 ### Andmetabel toolid
 **Vaata minu saidi selles lingis:[toolide valmistamine](https://lucagluhhov22.thkit.ee/Content/toolivara/table3.php).**
