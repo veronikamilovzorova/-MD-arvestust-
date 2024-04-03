@@ -3,7 +3,8 @@
 ## Sisukord:
 ### tellimuse sissestamine loonud käskluse mis valmistab koguse suurendamiseks ühe võrra
 
-<a name="name1"></a> 
+
+<a name="#name1">Loonud käskluse mis _valmistab_ koguse suurendamiseks ühe võrra</a> 
 
 ### teemakohane kujundus
 
