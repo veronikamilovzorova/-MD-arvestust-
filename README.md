@@ -250,3 +250,9 @@ table{
 
 
 ![navigeerimismenuu](https://github.com/lkuca/Toolid-viimane-projekt/blob/main/Screenshot%202024-04-03%20000147.png))
+# -lisa uus background Image
+# -muuda php failis muutujate nimed
+# -muuda failide nimed
+# -css failis muuda värvid
+# -kustuta ühel lehel background image
+# -lehel table3 paigalda label tere: admin ülevasakule küljesse
