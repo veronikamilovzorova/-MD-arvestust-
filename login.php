@@ -24,7 +24,7 @@ if (!empty($_POST['login']) && !empty($_POST['pass'])) {
 
         if($onAdmin==1){
             header('Location: table3.php');
-            echo '<script>window.location.href = "table3b.php";</script>';
+            echo '<script>window.location.href = "tableа3b.php";</script>';
         }
         else{
             echo '<script>window.location.href ="table.php";</script>';
