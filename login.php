@@ -27,7 +27,7 @@ if (!empty($_POST['login']) && !empty($_POST['pass'])) {
             echo '<script>window.location.href = "table3.php";</script>';
         }
         else{
-            echo '<script>window.location.href ="table3.php";</script>';
+            echo '<script>window.location.href ="table.php";</script>';
         }
     } else {
         echo "kasutaja $login või parool $kryp on vale";
